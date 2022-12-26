@@ -1,0 +1,43 @@
+/* XPM */
+static char *_1ce84895cf24b46b0ec39781f6755fcQIuQ74mU7QFT3qYV[] = {
+/* columns rows colors chars-per-pixel */
+"32 32 5 1 ",
+"  c black",
+". c #1F0C02",
+"X c #2B1205",
+"o c #064A11",
+"O c #00C11B",
+/* pixels */
+"XXXXXXXXXXXXXX..XXXXXXXXXXXXXX..",
+"XXXXXXXXXXXXXX..XXXXXXXXXXXXXX..",
+"XXXXXXXXXXXXXX..XXXXXXXXXXXXXX..",
+"XXXXXXXXXXXXXX..XXXXXXXXXXXXXX..",
+"                                ",
+"                                ",
+"  OOOOOOOOOOOOOOOOOOOOOOOOOOOO  ",
+"  OOOOOOOOOOOOOOOOOOOOOOOOOOOO  ",
+"  ooooooooOOOOooooooooooOOooOO  ",
+"  ooooooooOOOOooooooooooOOooOO  ",
+"  OOOOooooOOOOooOOooooooooOOOO  ",
+"  OOOOooooOOOOooOOooooooooOOOO  ",
+"  OOOOooooOOOOooOOooooooOOooOO  ",
+"  OOOOooooOOOOooOOooooooOOooOO  ",
+"  OOOOooooOOOOooOOooooooooOOOO  ",
+"  OOOOooooOOOOooOOooooooooOOOO  ",
+"                                ",
+"                                ",
+"XX                            ..",
+"XX                            ..",
+"XX  OOOOooooOOOOOOooooOOooOO  ..",
+"XX  OOOOooooOOOOOOooooOOooOO  ..",
+"..  OOOOooooOOOOOOooooooOOOO  ..",
+"..  OOOOooooOOOOOOooooooOOOO  ..",
+"XX  OOOOooooOOOOOOooooOOooOO  XX",
+"XX  OOOOooooOOOOOOooooOOooOO  XX",
+"XX  OOOOooooOOOOOOooooooOOOO  XX",
+"XX  OOOOooooOOOOOOooooooOOOO  XX",
+"XX  OOOOooooOOOOOOooooOOooOO  XX",
+"XX  OOOOooooOOOOOOooooOOooOO  XX",
+"..  OOOOooooOOOOOOooooooOOOO  .."
+"..  OOOOooooOOOOOOooooooOOOO  .."
+};
